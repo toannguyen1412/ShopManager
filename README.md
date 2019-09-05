@@ -1,1 +1,1 @@
-# ShopManager
+# ShopManager by Autoshopee
