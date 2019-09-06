@@ -1,5 +1,3 @@
-# ShopManager by Autoshopee
-
 ## Download phần mềm
 https://github.com/toannguyen1412/ShopManager/releases
 
