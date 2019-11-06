@@ -1,5 +1,6 @@
 # ShopManager v2
 #### Phần mềm hỗ trợ quản lý nhiều tài khoản Shopee , Lazada, Tiki được phân phối và phát triển bởi Autoshopee
+https://drive.google.com/open?id=1kN0M4rPmuQbk9kpPz2rHUnxvkJ4manBb
 
 ### Download phần mềm
 https://github.com/toannguyen1412/ShopManager/releases/latest
