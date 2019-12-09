@@ -24,3 +24,12 @@ MacOS :
 https://www.pdflabs.com/tools/pdftk-server/
 
 https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg
+
+---------------------
+## Đổi IP bằng Sock5
+
+Windows (Tải Putty)
+https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
+
+MacOs
+https://blog.autoshopee.com/tao-proxy-sock5-tren-windows-va-macos/
