@@ -16,7 +16,7 @@ https://www.youtube.com/playlist?list=PL9lHUKNJxWApZ0-qpkc3BQ4sMpGxujyIl
 
 Windows:
 
-https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
+https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_free-2.02-win-setup.exe
 
 MacOS :
 
