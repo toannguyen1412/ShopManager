@@ -1,4 +1,4 @@
-#### Phần mềm hỗ trợ quản lý nhiều tài khoản Shopee , Lazada, Tiki được phân phối và phát triển bởi Autoshopee
+#### Phần mềm hỗ trợ quản lý nhiều tài khoản Shopee, Shopee, Lazada, Tiki được phát triển bởi Autoshopee
 
 ![ShopManager](https://i.imgur.com/YaImiXf.png)
 
