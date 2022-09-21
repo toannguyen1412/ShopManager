@@ -1,16 +1,20 @@
-#### Phần mềm hỗ trợ quản lý nhiều tài khoản Shopee, Sendo, Lazada, Tiki được phát triển bởi Autoshopee
+#### Phần mềm hỗ trợ quản lý nhiều tài khoản được phát triển bởi Autoshopee
+- [x] Shopee
+- [x] Sendo
+- [x] Lazada
+- [x] Tiki
+- [x] Tiktok Shop
 
 ![ShopManager](https://i.imgur.com/YaImiXf.png)
 
 ### Giới thiệu
 https://blog.autoshopee.com/gioi-thieu-tong-quan-ve-giai-phap/
 
-### Download phần mềm
-https://github.com/toannguyen1412/ShopManager/releases/latest
+### Cài đặt
+https://support.autoshopee.com/shopmanager/cai-dat
 
-### Bài viết hướng dẫn
-http://support.autoshopee.com
+### Hướng dẫn
+https://support.autoshopee.com/shopmanager/quan-ly
 
-### Video hương dẫn
-https://www.youtube.com/playlist?list=PL9lHUKNJxWApZ0-qpkc3BQ4sMpGxujyIl
-
+### Video
+https://www.youtube.com/autoshopee
