@@ -6,8 +6,7 @@
 
 **Quản lý đơn hàng và tin nhắn nhiều shop cùng lúc** — phần mềm desktop do [AutoShopee](https://autoshopee.com) phát triển, chạy trên Windows và macOS.
 
-[![Release](https://img.shields.io/github/v/release/toannguyen1412/ShopManager?label=b%E1%BA%A3n%20m%E1%BB%9Bi%20nh%E1%BA%A5t&color=ee4d2d)](https://github.com/toannguyen1412/ShopManager/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/toannguyen1412/ShopManager/total?label=l%C6%B0%E1%BB%A3t%20t%E1%BA%A3i&color=2b6cb0)](https://github.com/toannguyen1412/ShopManager/releases)
+[![Tải về](https://img.shields.io/badge/t%E1%BA%A3i%20v%E1%BB%81-shop--manager--app.autoshopee.com-ee4d2d)](https://shop-manager-app.autoshopee.com/)
 ![Platform](https://img.shields.io/badge/n%E1%BB%81n%20t%E1%BA%A3ng-Windows%20%7C%20macOS-555)
 
 [Tải về](#tải-về) · [Tính năng](#tính-năng) · [Hướng dẫn](#hướng-dẫn--hỗ-trợ) · [YouTube](https://www.youtube.com/autoshopee)
@@ -121,17 +120,7 @@ Tra cứu phiếu đã in theo shop, sàn, ngày; gom nhiều file in thành m�
 
 ## Tải về
 
-Vào trang [**Releases**](https://github.com/toannguyen1412/ShopManager/releases/latest) và chọn bản cài theo máy:
-
-| Hệ điều hành | File |
-|---|---|
-| Windows 64-bit | `Shop-Manager-<phiên bản>-win-x64.exe` |
-| Windows 32-bit | `Shop-Manager-<phiên bản>-win-ia32.exe` |
-| Windows (tự chọn) | `Shop-Manager-<phiên bản>-win.exe` |
-| macOS Apple Silicon (M1 trở lên) | `Shop-Manager-<phiên bản>-mac-arm64.dmg` |
-| macOS Intel | `Shop-Manager-<phiên bản>-mac-x64.dmg` |
-
-Ứng dụng tự cập nhật khi có bản mới. Bản đánh dấu *Pre-release* là bản thử nghiệm.
+Tải bản cài Windows / macOS mới nhất tại **https://shop-manager-app.autoshopee.com/**
 
 ## Hướng dẫn & hỗ trợ
 
